@@ -1,0 +1,3 @@
+<div v-if="condition" :data-test="expr" role="button">
+  {{ expression }}
+</div>

@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "sourcesRoot": "",
+  "sources": [
+    "input.vue-html"
+  ],
+  "sourcesContent": [
+    "<div v-if=\"condition\" :data-test=\"expr\" role=\"button\">\n  {{ expression }}\n</div>\n"
+  ],
+  "names": [
+    "condition",
+    "expression"
+  ],
+  "mappings": ";;;UAAWA,cAAS,C;;;SAAG,SAAQ,C,EAAG,U;QAAM,IAAI,GAAE,MAAM,C;MACC,oBAAhD,eAAU,CACf;;;"
+}

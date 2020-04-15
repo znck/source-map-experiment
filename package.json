@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "author": "Rahul Kadyan <rahulkdn@gmail.com> (https://znck.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "sourcemap-codec": "^1.4.8"
+  }
+}
